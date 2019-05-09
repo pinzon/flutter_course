@@ -28,6 +28,12 @@ Simple excersice of rendering content obtained by a web service
 
 ## Read / Write Files
 
-Read/ Write files excercise
+Read / Write files excercise
 
 ![I/O](https://raw.githubusercontent.com/pinzon/flutter_course/master/screenshots/read_write_files.png)
+
+## SQFlite excercise
+
+Excersice of SQFLITE plugin used to make a simple CRUD
+
+![I/O](https://raw.githubusercontent.com/pinzon/flutter_course/master/screenshots/sqflite.gif)
