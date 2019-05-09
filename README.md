@@ -36,4 +36,4 @@ Read / Write files excercise
 
 Excersice of SQFLITE plugin used to make a simple CRUD
 
-![I/O](https://raw.githubusercontent.com/pinzon/flutter_course/master/screenshots/sqflite.gif)
+![SQFLITE](https://raw.githubusercontent.com/pinzon/flutter_course/master/screenshots/sqflite.gif)
